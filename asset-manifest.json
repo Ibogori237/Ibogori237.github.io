@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ibrahim-abakar/static/css/main.2394ac19.css",
+    "main.js": "/ibrahim-abakar/static/js/main.3c0bd384.js",
+    "static/js/488.dcbd3976.chunk.js": "/ibrahim-abakar/static/js/488.dcbd3976.chunk.js",
+    "service-worker.js": "/ibrahim-abakar/service-worker.js",
+    "index.html": "/ibrahim-abakar/index.html",
+    "main.2394ac19.css.map": "/ibrahim-abakar/static/css/main.2394ac19.css.map",
+    "main.3c0bd384.js.map": "/ibrahim-abakar/static/js/main.3c0bd384.js.map",
+    "488.dcbd3976.chunk.js.map": "/ibrahim-abakar/static/js/488.dcbd3976.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2394ac19.css",
+    "static/js/main.3c0bd384.js"
+  ]
+}
